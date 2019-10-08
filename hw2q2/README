@@ -1,0 +1,9 @@
+Brian Sweeney
+
+udpFTC.py - udp file transfer client. reads /etc/hosts and sends to server. recieves compressed file from server
+
+udpFTS.py - udp file transfer server. recieves file from client. compresses file with bz2 compression. sends compressed file back to client.
+
+tcpFTC.py - tcp file transfer client. reads /etc/hosts and sends to server. recieves compressed file from server
+
+tcpFTS.py - tcp file transfer server. recieves file from client. compresses file with bz2 compression. sends compressed file back to client.

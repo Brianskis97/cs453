@@ -1,0 +1,18 @@
+Script started on 2019-10-04 22:37:52-0400
+]0;brian@ubuntulaptop: ~/Documents/cs453[01;32mbrian@ubuntulaptop[00m:[01;34m~/Documents/cs453[00m$ ./ui[KdpFTS.py 
+Ctrl + C to exit
+
+Awaiting File...
+Awaiting File...
+File recieved, compressing
+Compressed
+File sent
+
+Awaiting File...
+^C
+Bye now
+
+]0;brian@ubuntulaptop: ~/Documents/cs453[01;32mbrian@ubuntulaptop[00m:[01;34m~/Documents/cs453[00m$ exit
+exit
+
+Script done on 2019-10-04 22:38:13-0400
